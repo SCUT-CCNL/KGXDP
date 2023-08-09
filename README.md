@@ -3,7 +3,7 @@ This code is for paper "Interpretable Disease Prediction via Path Reasoning over
 The key files are:
 
 - `train.py`: Used for training and validating the models. All parameters use default values, but can also be set at runtime.
-- `metrics.py`: Contains all evaluation metrics used in the paper. 
+- `metrics.py`: Contains all evaluation metrics used in the paper, which referenced https://github.com/luchang-cs/chet
 - The `modeling/` folder contains the model implementations.
 - The `util/` folder contains utility functions like data processing and transformations.
 - The `data/` folder is meant for storing the data, but we cannot provide it due to restrictions. Please download it yourself following the instructions provided.
@@ -31,5 +31,7 @@ In our work, part of the code is referenced from the following open-source code:
 1. QA-GNN: Question Answering using Language Models and Knowledge Graphs. https://github.com/michiyasunaga/qagnn
 
 2. HiTANet: Hierarchical Time-Aware Attention Networks for Risk Prediction on Electronic Health Records. https://github.com/HiTANet2020/HiTANet
+   
+3. Chet: Context-aware Health Event Prediction via Transition Functions on Dynamic Disease Graphs. https://github.com/luchang-cs/chet
 
 Many thanks to the authors and developers!
