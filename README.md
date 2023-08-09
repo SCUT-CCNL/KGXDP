@@ -16,7 +16,7 @@ python train.py
 
 The code shows an example using the MIMIC III dataset, but can be adapted for MIMIC IV by changing the data paths.
 
-This implements the models from our recent paper on clinical time series prediction. The code is modularized into folders for models, metrics, utilities, and data. The train script shows an example workflow for training and validation. Please download the MIMIC dataset yourself before running. Contributions and improvements are welcome!
+- NOTE: Please download the MIMIC dataset yourself before running. Contributions and improvements are welcome!
 
 #  Acknowledge 
 
