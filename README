@@ -1,6 +1,8 @@
-# This is the KGXDP code, which we will release after the completion of the paper review process.
+# This is the KGXDP code 
 
-# In our work, part of the code is referenced from the following open-source code:
+# Acknowledge 
+
+In our work, part of the code is referenced from the following open-source code: **
 
 1. QA-GNN: Question Answering using Language Models and Knowledge Graphs. https://github.com/michiyasunaga/qagnn
 
