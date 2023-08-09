@@ -8,6 +8,12 @@ The key files are:
 - The `util/` folder contains utility functions like data processing and transformations.
 - The `data/` folder is meant for storing the data, but we cannot provide it due to restrictions. Please download it yourself following the instructions provided.
 
+  You can download the MIMIC III from : https://physionet.org/content/mimiciii/1.4/
+
+  MIMIC IV from: https://physionet.org/content/mimiciv/2.2/
+
+To obtain the data, you need to register as a credentialed user on PhysioNet, complete the required CITI training on research ethics, and sign the PhysioNet Data Use Agreement. Please refer to the database overview pages for complete instructions.
+
 To run:
 
 ```
