@@ -1,8 +1,4 @@
-Here is the project description converted to Markdown format:
-
-# Clinical Time Series Prediction
-
-This code is for paper "Itest".
+This code is for paper "Interpretable Disease Prediction via Path Reasoning over Medical Knowledge Graphs and Admission History".
 
 The key files are:
 
