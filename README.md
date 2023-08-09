@@ -26,7 +26,7 @@ The code shows an example using the MIMIC III dataset, but can be adapted for MI
 
 #  Acknowledge 
 
-In our work, part of the code is referenced from the following open-source code: **
+In our work, part of the code is referenced from the following open-source code: 
 
 1. QA-GNN: Question Answering using Language Models and Knowledge Graphs. https://github.com/michiyasunaga/qagnn
 
